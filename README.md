@@ -11,12 +11,12 @@ Documents pertaining to the management or code in contain-rs. This includes:
   - Global documentation
   - Motivation and plan for collections
   - Other important documents
-  
+
 New documents can be added via pull requests, which will prompt discussion
-and possible acceptance. If a document is accepted, it's pull request can be
+and possible acceptance. If a document is accepted, its pull request can be
 merged.
 
-Note that not all collections need to have a full motivation and plan document,
+Note that not all collections need to have a full motivation and plan document;
 they can be added later for collections which have specialized use profiles.
 
 ### Issues
